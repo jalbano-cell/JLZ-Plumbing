@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-labelledby="logoHeaderTitle">
+  <title id="logoHeaderTitle">JLZ Plumbing</title>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="13" fill="#15130F"/>
+  <path d="M14 12 H27 A3 3 0 0 1 27 18 H14 A3 3 0 0 1 14 12 Z" fill="#FFFFFF"/>
+  <path d="M19 16 V27 Q19 32 24 32 H36 Q41 32 41 37 V44"
+        fill="none" stroke="#FFFFFF" stroke-width="4.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41 45 C37.5 49.5 37.5 53.5 41 56 C44.5 53.5 44.5 49.5 41 45 Z" fill="#E8B923"/>
+  <text x="78" y="40" font-family="Poppins, Arial, sans-serif" font-weight="800" font-size="27" letter-spacing="0.5" fill="#15130F">JLZ PLUMBING</text>
+</svg>
